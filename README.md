@@ -35,29 +35,4 @@ This will create an optimized production build of the application in the build d
 ### Running Tests
 1.Run the test suite
   `npm test`
-### Project Structure
-Here is an overview of the project's structure:
-react-todo-app/
-├── node_modules/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── TaskInput.js
-│   │   ├── TaskInput.css
-│   │   ├── TaskList.js
-│   │   ├── TaskList.css
-│   ├── redux/
-│   │   ├── actions/
-│   │   │   └── taskActions.js
-│   │   ├── reducers/
-│   │   │   └── taskReducer.js
-│   │   └── store.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   ├── index.css
-│   └── ...
-├── package.json
-└── README.md
+
